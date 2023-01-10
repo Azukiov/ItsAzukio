@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsazukio" alt="itsazukio" /></a> </p>
 
-- 💬 Mon serveur Discord [Surion-PvP](https://discord.gg/AKABTSDpmh)
+- 💬 Mon serveur Discord [MaskFR](https://discord.gg/maskfr)
 
 - 🌱 J'apprends actuellement le **HTML/CSS**
 
-- ⚡ Mon meilleur Projet [Cleaner-Tool](https://github.com/ItsAzukio/CleanerTool)
+- ⚡ Mon meilleur Projet [FeurBot](https://github.com/MaskFR-org/FeurBot)
 
 - 👨‍💻 Mon site perso [https://azukio.site](https://azukio.site)
 
