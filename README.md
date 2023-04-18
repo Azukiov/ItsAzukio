@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsazukio" alt="itsazukio" /></a> </p>
 
-- 💬 Mon serveur Discord [MaskFR](https://discord.gg/maskfr)
+- 💬 Mon serveur Discord [MaskFR](https://discord.gg/e7Wua5Yggm)
 
 - 🌱 J'apprends actuellement le **HTML/CSS**
 
 - ⚡ Mon meilleur Projet [FeurBot](https://github.com/MaskFR-org/FeurBot)
 
-- 👨‍💻 Mon site perso [https://azukio.site](https://azukio.site)
+- 👨‍💻 Mon site perso [https://azukio.fr](https://azukio.fr)
 
-- 📫 Me contacter **contact@azukio.site**
+- 📫 Me contacter **contact@azukio.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
